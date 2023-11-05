@@ -1,0 +1,26 @@
+C:\Users\ANKITAD9\source\repos\MenuClass\bin\Debug\MenuClass.dll
+C:\Users\ANKITAD9\source\repos\MenuClass\bin\Debug\MenuClass.pdb
+C:\Users\ANKITAD9\source\repos\MenuClass\bin\Debug\BAL.dll
+C:\Users\ANKITAD9\source\repos\MenuClass\bin\Debug\ClassLibrary.dll
+C:\Users\ANKITAD9\source\repos\MenuClass\bin\Debug\DAL.dll
+C:\Users\ANKITAD9\source\repos\MenuClass\bin\Debug\BAL.pdb
+C:\Users\ANKITAD9\source\repos\MenuClass\bin\Debug\ClassLibrary.pdb
+C:\Users\ANKITAD9\source\repos\MenuClass\bin\Debug\DAL.pdb
+C:\Users\ANKITAD9\source\repos\MenuClass\obj\Debug\MenuClass.csproj.AssemblyReference.cache
+C:\Users\ANKITAD9\source\repos\MenuClass\obj\Debug\MenuClass.csproj.CoreCompileInputs.cache
+C:\Users\ANKITAD9\source\repos\MenuClass\obj\Debug\MenuClass.csproj.CopyComplete
+C:\Users\ANKITAD9\source\repos\MenuClass\obj\Debug\MenuClass.dll
+C:\Users\ANKITAD9\source\repos\MenuClass\obj\Debug\MenuClass.pdb
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\MenuClass\bin\Debug\MenuClass.dll
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\MenuClass\bin\Debug\MenuClass.pdb
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\MenuClass\bin\Debug\BAL.dll
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\MenuClass\bin\Debug\ClassLibrary.dll
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\MenuClass\bin\Debug\DAL.dll
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\MenuClass\bin\Debug\BAL.pdb
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\MenuClass\bin\Debug\ClassLibrary.pdb
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\MenuClass\bin\Debug\DAL.pdb
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\MenuClass\obj\Debug\MenuClass.csproj.AssemblyReference.cache
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\MenuClass\obj\Debug\MenuClass.csproj.CoreCompileInputs.cache
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\MenuClass\obj\Debug\MenuClass.csproj.CopyComplete
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\MenuClass\obj\Debug\MenuClass.dll
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\MenuClass\obj\Debug\MenuClass.pdb

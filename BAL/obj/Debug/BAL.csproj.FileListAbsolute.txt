@@ -1,0 +1,22 @@
+C:\Users\ANKITAD9\source\repos\BAL\bin\Debug\BAL.dll
+C:\Users\ANKITAD9\source\repos\BAL\bin\Debug\BAL.pdb
+C:\Users\ANKITAD9\source\repos\BAL\bin\Debug\ClassLibrary.dll
+C:\Users\ANKITAD9\source\repos\BAL\bin\Debug\DAL.dll
+C:\Users\ANKITAD9\source\repos\BAL\bin\Debug\ClassLibrary.pdb
+C:\Users\ANKITAD9\source\repos\BAL\bin\Debug\DAL.pdb
+C:\Users\ANKITAD9\source\repos\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\ANKITAD9\source\repos\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\ANKITAD9\source\repos\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\ANKITAD9\source\repos\BAL\obj\Debug\BAL.dll
+C:\Users\ANKITAD9\source\repos\BAL\obj\Debug\BAL.pdb
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\BAL\bin\Debug\BAL.dll
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\BAL\bin\Debug\BAL.pdb
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\BAL\bin\Debug\ClassLibrary.dll
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\BAL\bin\Debug\DAL.dll
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\BAL\bin\Debug\ClassLibrary.pdb
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\BAL\bin\Debug\DAL.pdb
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\BAL\obj\Debug\BAL.dll
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\BAL\obj\Debug\BAL.pdb

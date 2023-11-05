@@ -1,0 +1,18 @@
+C:\Users\ANKITAD9\source\repos\DAL\bin\Debug\DAL.dll
+C:\Users\ANKITAD9\source\repos\DAL\bin\Debug\DAL.pdb
+C:\Users\ANKITAD9\source\repos\DAL\bin\Debug\ClassLibrary.dll
+C:\Users\ANKITAD9\source\repos\DAL\bin\Debug\ClassLibrary.pdb
+C:\Users\ANKITAD9\source\repos\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ANKITAD9\source\repos\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ANKITAD9\source\repos\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ANKITAD9\source\repos\DAL\obj\Debug\DAL.dll
+C:\Users\ANKITAD9\source\repos\DAL\obj\Debug\DAL.pdb
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\DAL\bin\Debug\DAL.dll
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\DAL\bin\Debug\DAL.pdb
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\DAL\bin\Debug\ClassLibrary.dll
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\DAL\bin\Debug\ClassLibrary.pdb
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\DAL\obj\Debug\DAL.dll
+C:\Users\ANKITAD9\OneDrive - Birlasoft Ltd\Desktop\C#\DAL\obj\Debug\DAL.pdb
